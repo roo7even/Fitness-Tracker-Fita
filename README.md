@@ -4,9 +4,10 @@ Sportosim veselīgi!
 
 ## Izmantojamās tehnoloģijas
 
-- HTML5
-- Go
-- Vue
+- HTML
+- React
+- Node.js
+- PostgreSQL
 
 ## Licences
 
